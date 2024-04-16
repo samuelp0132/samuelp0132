@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏼‍🤝‍🧑🏽   I’m looking to collaborate on Open-Source GO & .NET Projects<br>🌿   I’m currently learning  GO & React<br>⚡   Fun fact - Coffee without sugar is better
+🧑🏼‍🤝‍🧑🏽   I’m looking to collaborate on Open-Source GO & .NET Projects<br>🌿   I’m currently learning  GO & React<br>⚡  Coffee without sugar is better
 
 
 ## 🌐 Socials:
